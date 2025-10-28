@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Saya seorang mahasiswa dari **Universitas Negeri Surabaya** dengan minat kuat pada **Web Development**. Saya suka memecahkan masalah dan membangun aplikasi web yang intuitif dan bermanfaat bagi pengguna. Tujuan jangka panjang saya adalah menjadi seorang Software Engineer profesional.
+Saat ini, saya seorang mahasiswa dari **Universitas Negeri Surabaya** dengan minat kuat pada **Web Development**. Saya suka memecahkan masalah dan membangun aplikasi web yang intuitif dan bermanfaat bagi pengguna. Tujuan jangka panjang saya adalah menjadi seorang Software Engineer profesional.
 
 ---
 

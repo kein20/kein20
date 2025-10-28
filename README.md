@@ -1,10 +1,18 @@
 # Hi there, I'm Nur Lintang E.K. 👋
 
-<a href="https://www.linkedin.com/in/nur-lintang-e/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/nur-lintang-ekasari-515a81238/" style="margin-right: 8px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&fill=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&fill=0A66C2">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?&fill=0A66C2">
+  </picture>
 </a>
-<a href="mailto:nurliintaang14@gmail.com">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:nurlintang.ek@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?&fill=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?&fill=EA4335">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?&fill=EA4335">
+  </picture>
 </a>
 
 <br />

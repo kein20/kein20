@@ -58,7 +58,3 @@ Saat ini, saya seorang mahasiswa dari **Universitas Negeri Surabaya** dengan min
 - Prinsip-prinsip Web Accessibility
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kein20&show_icons=true&theme=radical" alt="github stats" />
-</p>
